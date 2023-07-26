@@ -12,4 +12,8 @@ Projeyi clonelayın.
 ## Usage
 Projeyi cloneladıktan sonra VS Code ile programı açınız.
 
+ ## Contributing 
+ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+
 
